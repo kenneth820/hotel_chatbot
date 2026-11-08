@@ -1,0 +1,12 @@
+*.zip
+temp.ipynb
+.env
+__pycache__/
+.venv/
+venv/
+/private
+/.vscode
+*.faiss
+*.pkl
+/.vscode
+/.ipynb_checkpoints
